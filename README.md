@@ -51,5 +51,4 @@ Grafana dashboards: Node Exporter Full (1860), Jenkins Performance and Health (9
 
 ## Author
 
-Zain Masood - Computer Engineering, GIKI
-LinkedIn: https://linkedin.com/in/zainmasood213
+Zain Masood
